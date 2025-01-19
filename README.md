@@ -1,4 +1,4 @@
-I have creader SSG(static site generator) a tool which creates static websites by pre-rendering pages from templates and content.
+I have created SSG(static site generator) a tool which creates static websites by pre-rendering pages from templates and content.
 
 here the content will be written in a markdown file which later converted into a static site
 
