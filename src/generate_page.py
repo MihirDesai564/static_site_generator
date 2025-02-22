@@ -16,8 +16,6 @@ def generate_page(from_path, template_path, dest_path):
 
     node = markdown_to_htmlnode(markdown_content)
     html = node.to_html()
-    print("html"*20)
-    print(html)
 
     title = extract_title(markdown_content)
     template_content = template_content.replace("{{ Title }}", title)
