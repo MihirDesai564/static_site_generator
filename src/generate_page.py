@@ -19,7 +19,7 @@ def generate_page(from_path, template_path, dest_path):
 
     title = extract_title(markdown_content)
     depth = from_path.count(os.sep)
-    css_path = "../"*depth+"index.css"
+    css_path = "../" * max(0,depth-1)+ "index.css"
     template_content = template_content.replace("{{ css_path }}", css_path)
     template_content = template_content.replace("{{ Title }}", title)
     template_content = template_content.replace("{{ Content }}", html)
