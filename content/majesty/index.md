@@ -2,7 +2,7 @@
 
 [Back Home](/)
 
-![LOTR image artistmonkeys](/images/FT4GU4M.png)
+![LOTR image artistmonkeys](../images/FT4GU4M.png)
 
 > "I cordially dislike allegory in all its manifestations, and always have done so since I grew old and wary enough to detect its presence.
 > I much prefer history, true or feigned, with its varied applicability to the thought and experience of readers.
