@@ -10,10 +10,10 @@ Distributed Denial Of Service, or DDos multiple devices flooding a target, typic
 
 ### Core Resources at Stake
 
-- **Bandwidth**: How much data the network can handle at once
-- **Processing Power**: The CPU's capacity to proces incoimg requestes
-- **Memory**: Ram used to store data temporarily
-- **Connection Tables**: A list of active network connection, critical for protocols like TCP.
+* **Bandwidth**: How much data the network can handle at once
+* **Processing Power**: The CPU's capacity to proces incoimg requestes
+* **Memory**: Ram used to store data temporarily
+* **Connection Tables**: A list of active network connection, critical for protocols like TCP.
 
 
 UDP is the most utilized protocol for DDoS attacks. UDP is preffered over TCP based attacks because TCP requires a connection to be made before any data can be transfered; if server or firewall refuses the connection, no data can be sent hence no attack.
@@ -57,11 +57,11 @@ Each server, unaware of the spoof sends a large amount of data to the victim whi
 
 ## Future of DDoS
 
-- DDoS attacks are growing and occuring more than often. A recent data by F5 Labs has shown 112% increase in the attacks from 2022 to 2023 with 2127 attacks recorded futhermore attacks grew 46% in 2024. A record breaking 5.6 Tbps attack was mitigated in late 2024, highlighting how rapidly attacks are evolving.
+* DDoS attacks are growing and occuring more than often. A recent data by F5 Labs has shown 112% increase in the attacks from 2022 to 2023 with 2127 attacks recorded futhermore attacks grew 46% in 2024. A record breaking 5.6 Tbps attack was mitigated in late 2024, highlighting how rapidly attacks are evolving.
 
-- Now attackers are also trying to leverage AI to automate attack strategies, analyze network traffic patterns, and adapt in real-time to evade detection but defenders are using AI for early detection and real-time mitigation. This creates a continuous arms race, with both sides leveraging AI to gain an edge.
+* Now attackers are also trying to leverage AI to automate attack strategies, analyze network traffic patterns, and adapt in real-time to evade detection but defenders are using AI for early detection and real-time mitigation. This creates a continuous arms race, with both sides leveraging AI to gain an edge.
 
-- IoT devices are being targeted more than ever as often lack robust security, are prime targets for creation of botnets. A recent report showed that IoT bots increassed five-fold over 12 months, generating 40% of DDoS traffic.
+* IoT devices are being targeted more than ever as often lack robust security, are prime targets for creation of botnets. A recent report showed that IoT bots increassed five-fold over 12 months, generating 40% of DDoS traffic.
 
 
 
