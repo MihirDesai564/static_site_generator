@@ -1,6 +1,6 @@
 # A Techical guide to DDoS
 
-[Back Home](../index.md)
+[Back Home](../index.html)
 
 ## Introduction 
 
